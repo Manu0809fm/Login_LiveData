@@ -69,5 +69,5 @@ dependencies {
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5454a804-4b47-48f2-9e85-dc57cf19cfd4" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b8696768-8a70-4e68-baf5-cbaafa4e136b" />
 
-
+Aplicacion desarrollada por Manuel Oswaldo Flores Mendoza
 
